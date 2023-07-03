@@ -1,0 +1,65 @@
+{
+    "carros": [
+      {
+        "placa": "ABC1234",
+        "marca": "Chevrolet",
+        "modelo": "Cruze",
+        "ano": "2020"
+      },
+      {
+        "placa": "DEF5678",
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "ano": "2019"
+      },
+      {
+        "placa": "GHI9012",
+        "marca": "Volkswagen",
+        "modelo": "Golf",
+        "ano": "2018"
+      },
+      {
+        "placa": "JKL3456",
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "ano": "2021"
+      },
+      {
+        "placa": "MNO7890",
+        "marca": "Honda",
+        "modelo": "Civic",
+        "ano": "2017"
+      },
+      {
+        "placa": "PQR2345",
+        "marca": "Hyundai",
+        "modelo": "HB20",
+        "ano": "2022"
+      },
+      {
+        "placa": "STU6789",
+        "marca": "Renault",
+        "modelo": "Sandero",
+        "ano": "2016"
+      },
+      {
+        "placa": "VWX0123",
+        "marca": "Fiat",
+        "modelo": "Palio",
+        "ano": "2015"
+      },
+      {
+        "placa": "YZA4567",
+        "marca": "Nissan",
+        "modelo": "March",
+        "ano": "2023"
+      },
+      {
+        "placa": "BCD8901",
+        "marca": "Kia",
+        "modelo": "Sportage",
+        "ano": "2021"
+      }
+    ]
+  }
+  
